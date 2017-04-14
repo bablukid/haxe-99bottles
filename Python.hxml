@@ -1,0 +1,3 @@
+-cp src
+-python bin/index.py
+-main Main
